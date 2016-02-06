@@ -1,0 +1,28 @@
+name: flax-golden
+favicon: null
+layout_spectrum: 0.8867395170964301
+typography_spectrum: 0.46786615066230297
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5442152232863009
+  lightness: 0.3831634458620101
+  saturation: 0.4186730624642223
+  rhythmicContrast: 0.47569385753013194
+purpose: []
